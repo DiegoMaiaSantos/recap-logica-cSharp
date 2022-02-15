@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\bin\Debug\net6.0\tipos-basicos-dados-csharp.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\bin\Debug\net6.0\tipos-basicos-dados-csharp.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\bin\Debug\net6.0\tipos-basicos-dados-csharp.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\bin\Debug\net6.0\tipos-basicos-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\bin\Debug\net6.0\ref\tipos-basicos-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\bin\Debug\net6.0\tipos-basicos-dados-csharp.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\obj\Debug\net6.0\tipos-basicos-dados-csharp.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\obj\Debug\net6.0\tipos-basicos-dados-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\obj\Debug\net6.0\tipos-basicos-dados-csharp.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\obj\Debug\net6.0\tipos-basicos-dados-csharp.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\obj\Debug\net6.0\tipos-basicos-dados-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\obj\Debug\net6.0\tipos-basicos-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\obj\Debug\net6.0\ref\tipos-basicos-dados-csharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\obj\Debug\net6.0\tipos-basicos-dados-csharp.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\tipos-basicos-dados-csharp\obj\Debug\net6.0\tipos-basicos-dados-csharp.genruntimeconfig.cache

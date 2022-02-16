@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\bin\Debug\net6.0\saida-dados-cSharp.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\bin\Debug\net6.0\saida-dados-cSharp.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\bin\Debug\net6.0\saida-dados-cSharp.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\bin\Debug\net6.0\saida-dados-cSharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\bin\Debug\net6.0\ref\saida-dados-cSharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\bin\Debug\net6.0\saida-dados-cSharp.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\obj\Debug\net6.0\saida-dados-cSharp.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\obj\Debug\net6.0\saida-dados-cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\obj\Debug\net6.0\saida-dados-cSharp.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\obj\Debug\net6.0\saida-dados-cSharp.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\obj\Debug\net6.0\saida-dados-cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\obj\Debug\net6.0\saida-dados-cSharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\obj\Debug\net6.0\ref\saida-dados-cSharp.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\obj\Debug\net6.0\saida-dados-cSharp.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\saida-dados-cSharp\obj\Debug\net6.0\saida-dados-cSharp.genruntimeconfig.cache

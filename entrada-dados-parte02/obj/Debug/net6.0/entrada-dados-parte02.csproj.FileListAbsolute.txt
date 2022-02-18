@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\bin\Debug\net6.0\entrada-dados-parte02.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\bin\Debug\net6.0\entrada-dados-parte02.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\bin\Debug\net6.0\entrada-dados-parte02.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\bin\Debug\net6.0\entrada-dados-parte02.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\bin\Debug\net6.0\ref\entrada-dados-parte02.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\bin\Debug\net6.0\entrada-dados-parte02.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\obj\Debug\net6.0\entrada-dados-parte02.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\obj\Debug\net6.0\entrada-dados-parte02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\obj\Debug\net6.0\entrada-dados-parte02.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\obj\Debug\net6.0\entrada-dados-parte02.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\obj\Debug\net6.0\entrada-dados-parte02.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\obj\Debug\net6.0\entrada-dados-parte02.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\obj\Debug\net6.0\ref\entrada-dados-parte02.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\obj\Debug\net6.0\entrada-dados-parte02.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\entrada-dados-parte02\obj\Debug\net6.0\entrada-dados-parte02.genruntimeconfig.cache

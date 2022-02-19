@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\bin\Debug\net6.0\operados-logicos.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\bin\Debug\net6.0\operados-logicos.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\bin\Debug\net6.0\operados-logicos.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\bin\Debug\net6.0\operados-logicos.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\bin\Debug\net6.0\ref\operados-logicos.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\bin\Debug\net6.0\operados-logicos.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\obj\Debug\net6.0\operados-logicos.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\obj\Debug\net6.0\operados-logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\obj\Debug\net6.0\operados-logicos.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\obj\Debug\net6.0\operados-logicos.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\obj\Debug\net6.0\operados-logicos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\obj\Debug\net6.0\operados-logicos.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\obj\Debug\net6.0\ref\operados-logicos.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\obj\Debug\net6.0\operados-logicos.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\operados-logicos\obj\Debug\net6.0\operados-logicos.genruntimeconfig.cache

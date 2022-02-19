@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\obj\Debug\net6.0\estrutura-condicional-if-else.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\obj\Debug\net6.0\estrutura-condicional-if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\obj\Debug\net6.0\estrutura-condicional-if-else.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\obj\Debug\net6.0\estrutura-condicional-if-else.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\obj\Debug\net6.0\estrutura-condicional-if-else.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\bin\Debug\net6.0\estrutura-condicional-if-else.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\bin\Debug\net6.0\estrutura-condicional-if-else.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\bin\Debug\net6.0\estrutura-condicional-if-else.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\bin\Debug\net6.0\estrutura-condicional-if-else.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\bin\Debug\net6.0\ref\estrutura-condicional-if-else.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\bin\Debug\net6.0\estrutura-condicional-if-else.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\obj\Debug\net6.0\estrutura-condicional-if-else.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\obj\Debug\net6.0\ref\estrutura-condicional-if-else.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\obj\Debug\net6.0\estrutura-condicional-if-else.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\revisao-logica-cSharp\recap-logica-cSharp\estrutura-condicional-if-else\obj\Debug\net6.0\estrutura-condicional-if-else.genruntimeconfig.cache
